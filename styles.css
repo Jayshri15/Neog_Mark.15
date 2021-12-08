@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+label{
+    display: block;
+    padding-bottom: 1rem;
+}
+
+input {
+    font-size: large;
+    display: block;
+    width: 100%;
+    max-width: 325px;
+    outline: rgb(61, 3, 221);
+    outline-color: rgb(241, 7, 38);
+    outline-style: initial;
+    outline-width: initial;
+    padding: 0.6rem 1rem;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+}
